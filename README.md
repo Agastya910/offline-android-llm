@@ -1,4 +1,4 @@
-# CSCE 685 — Offline LLM Optimization and Deployment on Android
+# CSCE 685  Offline LLM Optimization and Deployment on Android
 
 **Student:** Agastya Todi (UIN: 835009977)  
 **Supervisor:** Professor Duncan Walker  
@@ -97,4 +97,4 @@ See `requirements.txt`. Key packages:
 
 ## License
 
-MIT License — see LICENSE file.
+MIT License see LICENSE file.
